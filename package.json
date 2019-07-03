@@ -1,0 +1,22 @@
+{
+  "name": "@endereco/accounting",
+  "version": "1.0.0",
+  "description": "Service Client for Endereco Accountin",
+  "main": "Accounting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endereco/Accounting.git"
+  },
+  "keywords": [
+    "endereco"
+  ],
+  "author": "Ilja Weber <ilja@endereco.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endereco/Accounting/issues"
+  },
+  "homepage": "https://github.com/Endereco/Accounting#readme"
+}
